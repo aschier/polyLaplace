@@ -16,3 +16,11 @@ This will automatically build our code and all dependencies. Finally, start the 
     ./diamond_laplacian ../data/Volume/bunny.mesh
 
 Have fun!
+
+## Dependencies
+- cmake 3.0.2 or later
+- glfw/glew dependencies
+  - libxinerama-dev
+  - libxi-dev
+  - libxcursor-dev
+  - libglu1-mesa-dev
